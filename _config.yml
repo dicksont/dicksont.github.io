@@ -1,0 +1,12 @@
+# Site settings
+title: Dickson Tam
+email: dicksont650(at)gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Experienced freelance web and iOS developer based out of San Francisco.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dicksont650.github.io" # the base hostname & protocol for your site
+twitter_username: dicksontam
+github_username:  dicksont650
+
+# Build settings
+markdown: kramdown
