@@ -76,7 +76,7 @@ ORing the maximum safe integer value representable in Javascript with 0 should y
 
 Not true.
 
-Running this snippet in any JavaScript interpreter produces an unmistakable ***-1***.
+Running this snippet in both Chrome and Firefox produces an unmistakable ***-1***.
 
 WTF is going on, you might ask at this point. Well, because the Bitwise OR operator is defined only for 32-bit values, but ***Number.MAX_SAFE_INTEGER*** goes above those 32 bits. Javascript ignores those extra bits. Since ***Number.MAX_SAFE_INTEGER*** has all its bits set, it produces a 32-bit value with all the bits set.  We then perform the Bitwise OR operation. This produces the same value with all its bits set, or ***-1*** in integer land.
 
