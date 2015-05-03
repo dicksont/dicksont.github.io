@@ -2,7 +2,7 @@
 title: Dickson Tam
 email: dicksont650(at)gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Freelance web and iOS developer based in San Francisco.
+  Independent web developer @ San Francisco.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dicksont.github.io" # the base hostname & protocol for your site
 twitter_username: dicksontam
