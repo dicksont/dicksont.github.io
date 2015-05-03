@@ -39,7 +39,7 @@ You will discover that he has more hands-on knowledge on broader range of techno
 - He used to run his own custom Gentoo and ArchLinux servers in production, but now uses cloud providers like AWS.
 - He has used and written extensions for jQuery.
 
-If your company [and not your client] is:
+He is interested in large-scale socio-economic problems, because he thinks he can make a difference in these areas. If your company [and not your client] is:
 
 - in need of an independent web developer,
 - for a short term project,
