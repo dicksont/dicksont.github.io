@@ -43,6 +43,6 @@ If your company [and not your client] is:
 
 - in need of an independent web developer,
 - for a short term project,
-- and is willing to pay market to above-market rates
+- and is willing to pay market rates and above.
 
 Please reach out to him at dicksont650(at)gmail.com. He is always open to new opportunities.  
