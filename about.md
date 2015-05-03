@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Dickson is an independent web developer based out of San Francisco. He is a Bay Area native, who graduated with an Electrical Engineering and Computer Science degree from UC Berkeley. With over 10 years experience in the industry, he has been involved more projects, worked with more organizations, touched more technologies and delivered more results than other engineers.
+Dickson is an independent web developer based out of San Francisco. He is a Bay Area native, who graduated with an Electrical Engineering and Computer Science degree from UC Berkeley. With over 10 years experience in the industry, he has been involved more projects, worked with more organizations, touched more technologies and delivered more results than many other engineers.
 
 Select projects that he has worked on include:
 
@@ -22,7 +22,7 @@ Select projects that he has worked on include:
 - **UC Berkeley, Institute of Governmental Studies Library search engine** - Displays search results for city planning documents
 
 
-Eager to explore and test all facets of technology, he has gotten his feet wet with startups. He has worked on few projects that went pretty far but did not make it all the way. These include:
+Eager to explore and test all facets of technology, he has gotten his feet wet with startups. He has worked on few projects that went pretty far, but did not make it all the way. These include:
 
 - **man9.org** - Displays search results for UNIX manpages. Annotate manpages with custom text.
 - **democast.net** - Publish any news story online. Create events and invite people.
