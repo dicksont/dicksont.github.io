@@ -26,6 +26,7 @@ Eager to explore and test all facets of technology, he has gotten his feet wet w
 
 - **man9.org** - Displays search results for UNIX manpages. Annotate manpages with custom text.
 - **democast.net** - Publish any news story online. Create events and invite people.
+- **streval.js** - Ruby-esque string interpolation/evaluation for JavaScript.
 
 He has produced various open-source libraries including:
 
