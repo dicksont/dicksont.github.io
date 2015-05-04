@@ -21,6 +21,13 @@ Select projects that he has worked on include:
 - **UC Berkeley, log parser and alert daemon** - Provides alerts for machine failures and security breaches.
 - **UC Berkeley, Institute of Governmental Studies Library search engine** - Displays search results for city planning documents
 
+He has produced various open-source libraries including:
+
+- **[rfline.js](https://www.npmjs.com/package/rfline)** - File line reader for Node.js
+- **[jquery-xtable.js](https://www.npmjs.com/package/jquery-xtable)** - jQuery-based data extractor and manipulator for HTML tables
+- **[afnum.js](https://www.npmjs.com/package/afnum)** - Alpha-numeric [e.g. spreadsheet] coordinate system
+- **[nwjs-osx-menu.js](https://github.com/dicksont/nwjs-osx-menu)** - Default menu for nw.js on Mac OS X. Enables functionality like Copy-and-Paste
+
 
 Eager to explore and test all facets of technology, he has gotten his feet wet with startups. He has worked on few projects that went pretty far, but did not make it all the way. These include:
 
@@ -28,12 +35,6 @@ Eager to explore and test all facets of technology, he has gotten his feet wet w
 - **democast.net** - Publish any news story online. Create events and invite people.
 - **streval.js** - Ruby-esque string interpolation/evaluation for JavaScript.
 
-He has produced various open-source libraries including:
-
-- **[rfline.js](https://www.npmjs.com/package/rfline)** - File line reader for Node.js
-- **[jquery-xtable.js](https://www.npmjs.com/package/jquery-xtable)** - jQuery-based data extractor and manipulator for HTML tables
-- **[afnum.js](https://www.npmjs.com/package/afnum)** - Alpha-numeric [e.g. spreadsheet] coordinate system
-- **[nwjs-osx-menu.js](https://github.com/dicksont/nwjs-osx-menu)** - Default menu for nw.js on Mac OS X. Enables functionality like Copy-and-Paste
 
 You will discover that he has more hands-on knowledge on broader range of technologies than most others on the market. He is much more than your conventional engineer for the following reasons:
 
