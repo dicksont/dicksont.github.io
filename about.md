@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Dickson is an independent web developer based out of San Francisco. He is a Bay Area native, who graduated with an Electrical Engineering and Computer Science degree from UC Berkeley. With over 10 years experience in the industry, he has been involved more projects, worked with more organizations, touched more technologies and delivered more results than many other engineers.
+Dickson is an independent web developer based out of San Francisco. He is a Bay Area native, who graduated with an *Electrical Engineering and Computer Science* degree from *UC Berkeley*. With over 10 years experience in the industry, he has been involved more projects, worked with more organizations, touched more technologies and delivered more results than many other engineers.
 
 Select projects that he has worked on include:
 
@@ -27,22 +27,31 @@ Eager to explore and test all facets of technology, he has gotten his feet wet w
 - **man9.org** - Displays search results for UNIX manpages. Annotate manpages with custom text.
 - **democast.net** - Publish any news story online. Create events and invite people.
 
+He has produced various open-source libraries including:
+
+- **[rfline.js](https://www.npmjs.com/package/rfline)** - File line reader for Node.js
+- **[jquery-xtable.js](https://www.npmjs.com/package/jquery-xtable)** - jQuery-based data extractor and manipulator for HTML tables
+- **[afnum.js](https://www.npmjs.com/package/afnum)** - Alpha-numeric [e.g. spreadsheet] coordinate system
+- **[nwjs-osx-menu.js](https://github.com/dicksont/nwjs-osx-menu)** - Default menu for nw.js on Mac OS X. Enables functionality like Copy-and-Paste
+
 You will discover that he has more hands-on knowledge on broader range of technologies than most others on the market. He is much more than your conventional engineer for the following reasons:
 
-- He used to spend most afternoons compiling custom kernels and managing daemons. Now, he spends his time on his Mac, as a styling guru, where he fixes CSS layout issues for various clients.
-- He has worked across a variety of J2EE specifications and enterprise middleware, but has also customized PHP-based Mediawiki to meet business needs.
-- He has written highly concurrent programs under a multi-threaded model in Java and C++, and now writes highly concurrent programs under an event and callback model in Node.js.
-- He is worked with Rspec, Capybara, Qunit, Mocha, Jasmine, and Selenium, but has also done his own mobile and web app designs using Sketch, Photoshop, and Illustrator.
-- He is an expert in HTML, CSS, and JavaScript, but has also written  signal and image processing software.
-- He can produce stunning data visualizations, but has also deployed machine learning and data-mining technologies like Apache Spark. He has explored linear regressions, logistic regressions, SVMs and other data-science algorithms.
-- He has written shaders in WebGL, but has also produced animations with CSS transitions and keyframes.
-- He used to run his own custom Gentoo and ArchLinux servers in production, but now uses cloud providers like AWS.
-- He has used and written extensions for jQuery.
+- He used to spend most afternoons compiling custom kernels and managing daemons. Now, he spends his time on his Mac, as a styling guru, where he fixes *CSS* layout issues for various clients.
+- He has worked across a variety of *J2EE* specifications and enterprise middleware, but has also customized *PHP*-based *Mediawiki* to meet business needs.
+- He has written highly concurrent programs under a multi-threaded model in *Java* and *C++*, and now writes highly concurrent programs under an event and callback model in *Node.js*.
+- He is worked with *Rspec*, *Capybara*, *Qunit*, *Mocha*, *Jasmine*, and Selenium, but has also done his own mobile and web app mockups and graphics using *Sketch*, *Photoshop*, and *Illustrator*.
+- He is an expert in *HTML*, *CSS*, and *JavaScript*, but has also written  signal and image processing software.
+- He can produce stunning data visualizations, but has also deployed machine learning and data-mining technologies like *Apache Spark*. He has explored linear regressions, logistic regressions, SVMs and other data-science algorithms.
+- He has written shaders in *WebGL*, but has also produced animations with *CSS transitions* and *keyframes*.
+- He used to run his own custom Gentoo and ArchLinux servers in production, but now uses cloud providers like *AWS*.
+- He has used and written extensions for *jQuery*.
 
-He is interested in large-scale socio-economic problems, because he thinks he can make a difference in these areas. If your company [and not your client] is:
+He is keenly interested in large-scale socio-economic problems, because he thinks he can make a difference in these areas.
+
+If your company [and not your client] is:
 
 - in need of an independent web developer,
 - for a short term project,
 - and is willing to pay market rates and above,
 
-please reach out to him at dicksont650(at)gmail.com. He is always open to new opportunities.  
+please reach out to him at **dicksont650(at)gmail.com**. He is always open to new opportunities.  
