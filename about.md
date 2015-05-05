@@ -26,7 +26,7 @@ He has produced various open-source libraries including:
 - **[rfline.js](https://www.npmjs.com/package/rfline)** - File line reader for Node.js
 - **[jquery-xtable.js](https://www.npmjs.com/package/jquery-xtable)** - jQuery-based data extractor and manipulator for HTML tables
 - **[afnum.js](https://www.npmjs.com/package/afnum)** - Alpha-numeric [e.g. spreadsheet] coordinate system
-- **[nwjs-osx-menu.js](https://github.com/dicksont/nwjs-osx-menu)** - Default menu for nw.js on Mac OS X. Enables functionality like Copy-and-Paste
+- **[nwjs-osx-menu.js](https://www.npmjs.com/package/nwjs-osx-menu)** - Default menu for nw.js on Mac OS X. Enables functionality like Copy-and-Paste
 
 
 Eager to explore and test all facets of technology, he has gotten his feet wet with startups. He has worked on few projects that went pretty far, but did not make it all the way. These include:
