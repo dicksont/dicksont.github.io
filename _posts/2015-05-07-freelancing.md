@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Freelancing as an Web Developer"
+title:  "Freelancing as a Web Developer"
 date:   2015-05-07 13:51:10
 ---
 
@@ -8,7 +8,7 @@ When I tell people that I do freelance web development, they become interested. 
 
 There are two questions that I always get. The first one is how is it going, to which I always respond OK. And the second question is how do I find customers, to which my answer is somewhere along the lines I don't. They show up unexpectedly.
 
-Let me explain my answers. By OK, means that things are somewhere in between. I could actively seek out more customers. I could work on more projects...if this was indeed my goal. But it's not. This kind of explains my second answer, which is that I don't really try to find customers. But even with this apathetic approach to self-promotion, I'm still doing OK.
+Let me explain my answers. By OK, I mean that things are somewhere in between. I could actively seek out more customers. I could work on more projects...if this was indeed my goal. But it's not. This kind of explains my second answer, which is that I don't really try to find customers. But even with this apathetic approach to self-promotion, I'm still doing OK.
 
 Indeed, I find myself in this unique situation, where working with the biggest names in Silicon Valley or earning the most money with long-term contracts, is not my primary objective. My primary objective really is to get my own personal projects underway. And freelancing buys me time to do these things.
 
