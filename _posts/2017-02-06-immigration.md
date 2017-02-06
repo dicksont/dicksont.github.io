@@ -18,6 +18,6 @@ Regardless of what we call them to prove our point, many immigrants are hard-wor
 
 America has been a nation of laws. Rational thought and rational principles like "consent of the governed" form the basis for our judicial system. A common respect for the law form the basis for our enforcement system. Our legal system does not have any allowance for immigration that is illegal. In fact, the two are antithetical by definition. We are either a nation of laws or claim to be. We can either follow the law or ignore it. We can either be Americans or claim to be. And if we choose the former over the latter, then sanctioning something illegal and as massive as "undocumented" immigration delegitimizes our system. It challenges our fundamental principles that no one is above the law and that the government's right to govern is rooted in legitimate sources. It is a legal conundrum, an ideological trap.
 
-America cannot have illegal immigration. The left's argument is an emotional, legal implausibility. The right's is rational and wholly justified. Compared to the questionable arguments presented by the left, there are other more pragmatic arguments supporting the administration's tougher stance on illegal immigration, none of which media has mentioned.
+America cannot have illegal immigration. The left's argument is an emotional, legal implausibility. The right's is rational and wholly justified. Compared to the questionable arguments presented by the left, there are other more concrete arguments supporting the administration's tougher stance on illegal immigration, none of which media has mentioned.
 
-I find this simple argument to be the most thought-provoking however.
+I find this simple abstract argument to be the most thought-provoking however.
