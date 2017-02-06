@@ -8,11 +8,11 @@ Diversity has been a popular justification for immigration. And like many, I bel
 
 When doling out credit, the media likes to point out that many of America's smartest and greatest were immigrants or children of immigrants. They conveniently forget to mention the many failures of immigration. Many immigrants leave America to return to their homeland. Many immigrants fester in an America that is less glamorous than the one they saw on television. These immigrants do not share the American dream. The ones that succeed are the ones that commit. They become Americans. So instead of saying:
 
-  Many of America's smartest and brightest were immigrants or children of immigrants
+>  Many of America's smartest and brightest were immigrants or children of immigrants
 
 , perhaps the media should say:
 
-  Many of America's smartest and brightest were first or second generation Americans.
+>  Many of America's smartest and brightest were first or second generation Americans.
 
 Regardless of what we call them to prove our point, many immigrants are hard-working, decent people. And we were to make decisions solely with our hearts, I believe that many would be accepted, regardless of their entry. However, because we consider ourselves rational men not just beasts, we must reason with our minds, not with our hearts.
 
